@@ -1,7 +1,7 @@
 # Regresión logística – Cáncer de mama (Wisconsin)
 
 ## Archivos
-- `Regresion_Logistica_Wisconsin_Guiada.ipynb`: Notebook guiado de clasificación binaria con regresión logística, métricas, cambio de umbral y curva ROC.
+- `RegresionLogistica`
 
 El dataset viene incluido en scikit-learn (`load_breast_cancer`), por lo que no se necesita ningún CSV.
 
