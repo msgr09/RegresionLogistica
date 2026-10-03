@@ -37,5 +37,3 @@ Abrir el Notebook y ejecutar las celdas en orden.
 - F1-score (maligno): 95.15 %
 - ROC-AUC: 99.62 %
 
-## Nota
-La redacción y contextualización final deben ser revisadas y adaptadas por el estudiante antes de la entrega.
